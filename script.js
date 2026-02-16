@@ -5,7 +5,7 @@
 // Credenciales de acceso (puedes cambiarlas aquí)
 const CREDENTIALS = {
     username: 'admin',
-    password: 'kor2025'
+    password: '2323'
 };
 
 // Verificar sesión al cargar la página
